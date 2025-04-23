@@ -17,3 +17,6 @@ Based on Pixeled's (youtube.com/@pixeled-yt) "Creating a Compiler" series.
 - `v2/golf` Corresponds to timestamp of 0:00-28:54 in part two of the video series. Refactoring takes place in this version. By now, the tokenization has been abstracted to a header file. Several processes related to tokenization have been improved. Corresponding code within `main.cpp` has been reduced. The `test.sh` script has been improved with absolute paths which allow it to be from anywhere on the local host. All other file contents and structure have remain the same.
 
 - `v2/hotel` Corresponds to timestamp of 28:55-1:05:47 in part two of the video series. Parsing and code generation are abstracted to `.hpp` files. A `grammar.md` file is now included. Code in `main.cpp` has been modified or reduced to use the contents of header files accordingly. Other file contents and structure are unchanged.
+
+- `v3/india` Corresponds to timestamp of 0:00-TBD in part three of the video series. At the time of writing, this version is a work-in-progress.
+
